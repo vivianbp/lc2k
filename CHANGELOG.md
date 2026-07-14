@@ -4,6 +4,9 @@ All notable changes will be documented in this file.
 
 ## 0.2
 
+### 0.2.3
+* updated dependancies
+
 ### 0.2.2
 * Added new file extension
 * Updated and removed unneeded dependances
